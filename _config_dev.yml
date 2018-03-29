@@ -7,7 +7,7 @@ baseurl: "http://lbl28.github.io/"
 email: llemirande@yahoo.com
 cover: http://llemirande.com/v2/img/og.jpg
 logo: http://llemirande.com/v2/img/logo-black.png
-resume: http://llemirande.com/v2/resume.pdf
+resume: http://llemirande.com/resume.pdf
 social:
   - title: email
     url: mailto:llemirande@yahoo.com
