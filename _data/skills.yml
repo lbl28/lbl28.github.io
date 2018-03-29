@@ -10,11 +10,11 @@ development:
   - item: Angular
 
 design:
-  - item: React
-  - item: Django
-  - item: ASP.NET MVC
-  - item: JQuery 
-  - item: Bootstrap
+  - item: react
+  - item: django
+  - item: mvc
+  - item: jquery 
+  - item: bootstrap
 
 tools:
   - item: Git + Github
