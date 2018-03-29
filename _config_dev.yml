@@ -1,24 +1,24 @@
 # Site settings
 name: Logan Lemirande
-title: Logan Lemirande | Software Engineer
+title: Logan Lemirande | Front End Software Engineer
 description: Design-minded, detail oriented software engineer passionate about combining beautiful code with beautiful design.
 url: http://llemirande.com/
 baseurl: ""
-email: llemirande@yahoo.com.com
-cover: http://brittanychiang.com/v2/img/og.jpg
-logo: http://brittanychiang.com/v2/img/logo-black.png
-resume: http://brittanychiang.com/v2/resume.pdf
+email: llemirande@yahoo.com
+cover: http://llemirande.com/v2/img/og.jpg
+logo: http://llemirande.com/v2/img/logo-black.png
+resume: http://llemirande.com/v2/resume.pdf
 social:
   - title: email
     url: mailto:llemirande@yahoo.com
   - title: twitter
     url: https://twitter.com/llemirande
   - title: instagram
-    url: https://www.instagram.com/loglem/
+    url: https://instagram.com/llemirande
   - title: github
-    url: https://github.com/loglem
+    url: https://github.com/lbl28
   - title: linkedin
-    url: https://www.linkedin.com/in/llemirande/
+    url: https://www.linkedin.com/in/llemirande
 
 # Build settings
 markdown: kramdown
@@ -38,6 +38,6 @@ keep_files:
   - ".git"
   - ".gitignore"
 
-plugins_dir:
+plugins:
   - jekyll-minifier
   - jekyll-sitemap

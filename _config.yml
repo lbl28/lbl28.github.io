@@ -1,26 +1,26 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded, detail oriented software engineer passionate about combining beautiful code with beautiful design.
-url: http://brittanychiang.com/
+name: Logan Lemirande
+title: Logan Lemirande | Software Engineer
+description: I enjoy developing innovative busines solutions through application and web design.
+url: http://llemirande.com/
 baseurl: "/v2"
-email: brittany.chiang@gmail.com
-cover: http://brittanychiang.com/v2/img/og.jpg
-logo: http://brittanychiang.com/v2/img/logo-black.png
-resume: http://brittanychiang.com/v2/resume.pdf
+email: llemirande@yahoo.com
+cover: http://llemirande.com/v2/img/og.jpg
+logo: http://llemirande.com/v2/img/logo-black.png
+resume: http://llemirande.com/v2/resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
+    url: mailto:llemirande@yahoo.com
   - title: twitter
-    url: https://twitter.com/bchiang7
+    url: https://twitter.com/llemirande
   - title: instagram
-    url: https://instagram.com/bchiang7
+    url: https://instagram.com/llemirande
   - title: codepen
-    url: http://codepen.io/bchiang7
+    url: http://codepen.io/llemirande
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/llemirande
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/llemirande
 
 # Build settings
 markdown: kramdown
@@ -40,6 +40,6 @@ keep_files:
   - ".git"
   - ".gitignore"
 
-plugins_dir:
+plugins:
   - jekyll-minifier
   - jekyll-sitemap

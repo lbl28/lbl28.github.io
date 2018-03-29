@@ -6,23 +6,19 @@
   title: About
   number: 1
 
-- section: services
-  title: What I Do
-  number: 2
-
 - section: skills
   title: Skills
-  number: 3
+  number: 2
 
 - section: experience
   title: Experience
-  number: 4
+  number: 3
 
 - section: portfolio
   title: Portfolio
-  number: 5
+  number: 4
 
 - section: contact
   title: Contact
-  number: 6
+  number: 5
 

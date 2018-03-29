@@ -1,55 +1,34 @@
-- position: Northeastern University
-  company: NU College of Computer &amp; Information Science
-  url: http://www.ccis.northeastern.edu/program/information-science-bs/
-  description: Candidate for Bachelor of Science in Information Science with a concentration in Human Computer Interaction (HCI) and a minor in Interaction Design. <strong>Graduating in May 2018.</strong>
-  sprite: university
-  date: 2013 - Present
-
-- position: HCI Research Assistant
-  company: NU College of Computer &amp; Information Science
-  url: http://www.ccis.northeastern.edu/
-  description: Assisted a computer science PhD student in the development of a software prototype built with HTML, CSS, JavaScript, and jQuery to facilitate better understanding of parent-child communication preferences in low-SES (Socio-Economic Status) families. Developed remotely to meet weekly deadlines and project checkpoints.
-  sprite: research
-  date: Mar - May 2015
-
-- position: Creative Technologist Co-op
-  company: MullenLowe U.S.
-  url: http://us.mullenlowe.com/
-  description: Developed and maintained code for in-house and client websites. Tested front-end code in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness. Collaborated closely with other developers and digital producers to meet deadlines for clients including Lovesac, U.S. Cellular, JetBlue, and more.
+- position: Software Engineer
+  company: American Family Insurance
+  url: https://www.amfam.com/
+  description: Support I/S with reusable components, guides, code issues, leveraging of tools, and tool assessments. <strong>March 2017 to Present.</strong>
   sprite: industry
-  date: July - Dec 2015
+  date: 2017 - Present
 
-- position: HCI Teaching Assistant
-  company: NU College of Computer &amp; Information Science
-  url: http://www.ccis.northeastern.edu/
+- position: Internship in Network Security and Management
+  company: Lycon Inc.
+  url: http://www.lyconinc.com/
+  description: Analyzed network needs and contributed in the design of network architecture.
+  sprite: industry
+  date: May 2016 - Jan 2017
+
+- position: UW - Stevens Point
+  company: UWSP - Computer Information Systems
+  url: https://www.uwsp.edu/cnmt/Pages/major.aspx?name=Computer+Information+Systems
+  description: ​The Computer Information Systems (CIS) program at the University of Wisconsin-Stevens Point provides rich academic training and practical experience. Computer majors receive training in core computing topics such as computer programming, systems analysis, network administration and database development.
+  sprite: university
+  date: Graduated Jan 2017
+
+- position: UWSP Hockey Stat Tracking Application
+  company: UWSP Hockey
+  url: https://athletics.uwsp.edu/index.aspx?path=mhockey
+  description: Developed a stat-tracking application to allow our coaches to better record and analyze video using an android tablet.
+  sprite: industry
+  date: Jan - May 2016
+
+- position: Collegiate Hockey Player
+  company: UWSP Hockey Team
+  url: https://athletics.uwsp.edu/index.aspx?path=mhockey
   description: Assisted professor with grading homework and project assignments. Held office hours to aid students in their understanding of core HCI concepts and reported to the professor the extent of their understanding.
   sprite: academic
   date: Jan - May 2016
-
-- position: President
-  company: NU Women in Tech
-  url: http://nuwit.ccs.neu.edu
-  description: Lead weekly club meetings to foster a community of diverse women in CS. Manage a variety of academic and social activities throughout the semester, including tech talks, student panels, and workshops. Communicate regularly with e-board and administrative organizations.
-  sprite: university
-  date: May 2016 - Present
-
-- position: Software Engineer Co-op
-  company: Starry
-  url: https://starry.com/
-  description: Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette, and CSS. Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with Starry Station. Worked closely with designers and other developers to ensure thoughtful and coherent user experiences across Starry’s mobile apps.
-  sprite: industry
-  date: July - Dec 2016
-
-- position: Developer
-  company: Scout Studio
-  url: http://www.northeastern.edu/scout/
-  description: Collaborated with a small team of student designers to spearhead a new design system for Scout’s first annual student-led design conference at Northeastern. Worked closely with designers and management team to develop, document, and manage the conference’s marketing website using Jekyll, Sass, and JavaScript.
-  sprite: university
-  date: Jan 2017 - Present
-
-# - position: UI Engineer Co-op
-#   company: Apple
-#   url: http://www.apple.com/
-#   description: Worked on iTunes using Ember.js
-#   sprite: industry
-#   date: July - Dec 2017

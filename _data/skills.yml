@@ -2,26 +2,26 @@ development:
   - item: JavaScript
   - item: HTML5
   - item: CSS3
-  - item: Jekyll
+  - item: Java
   - item: Python
-  - item: React
-  - item: Backbone
+  - item: Ruby
+  - item: C#
   - item: Node.js
   - item: Angular
 
 design:
-  - item: sketch
-  - item: adobe-photoshop
-  - item: adobe-indesign
-  - item: adobe-illustrator
-  - item: invision
+  - item: React
+  - item: Django
+  - item: ASP.NET MVC
+  - item: JQuery 
+  - item: Bootstrap
 
 tools:
   - item: Git + Github
   - item: Command Line
-  - item: Chrome DevTools
-  - item: Grunt + Gulp
-  - item: Postman
+  - item: ServiceNow
+  - item: Dynatrace
+  - item: TFS
 
 knowledge:
   - item: CSS Detangling
