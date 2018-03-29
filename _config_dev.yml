@@ -1,0 +1,43 @@
+# Site settings
+name: Logan Lemirande
+title: Logan Lemirande | Software Engineer
+description: Design-minded, detail oriented software engineer passionate about combining beautiful code with beautiful design.
+url: http://llemirande.com/
+baseurl: ""
+email: llemirande@yahoo.com.com
+cover: http://brittanychiang.com/v2/img/og.jpg
+logo: http://brittanychiang.com/v2/img/logo-black.png
+resume: http://brittanychiang.com/v2/resume.pdf
+social:
+  - title: email
+    url: mailto:llemirande@yahoo.com
+  - title: twitter
+    url: https://twitter.com/llemirande
+  - title: instagram
+    url: https://www.instagram.com/loglem/
+  - title: github
+    url: https://github.com/loglem
+  - title: linkedin
+    url: https://www.linkedin.com/in/llemirande/
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "*.gemspec"
+  - "README.md"
+  - "node_modules"
+  - "build"
+  - "gulpfile.js"
+  - "package.json"
+
+keep_files:
+  - "CNAME"
+  - ".git"
+  - ".gitignore"
+
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap
