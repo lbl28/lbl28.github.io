@@ -5,7 +5,7 @@
   overflow: hidden;
   color: $white;
   position: relative;
-  background: #00909c;
+  background: #BF360C;
   font-family: $Gotham, $sans-serif-stack;
   font-size: 1em;
   font-weight: 700;
@@ -15,7 +15,7 @@
   overflow: hidden;
   transition: background-color 0.5s linear;
   &:hover, &:focus {
-    background: $blue;
+    background: #FF5722;
     transition: all 0.3s ease;
     .text {
       opacity: 0;

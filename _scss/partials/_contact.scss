@@ -40,7 +40,7 @@
         transition: all 0.5s ease-in-out;
       }
       &:after {
-        background-color: #00b7c7;
+        background-color: #039BE5;
         content: "";
         position: absolute;
         display: block;
@@ -91,7 +91,7 @@
       width: 100%;
     }
     .is-active .input-label {
-      color: #00b7c7;
+      color: #039BE5;
     }
     .is-completed .input-label {
       font-size: 0.75em;
