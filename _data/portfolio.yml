@@ -58,21 +58,16 @@
   - thing: JavaScript
   - thing: jQuery
 
-- title: CourseSource
-  demo: http://webdevspring2016-chiangbrittany.rhcloud.com/project/client/#/login
-  code: https://github.com/bchiang7/WebDevSpring2016/tree/master/public/project
-  description: CourseSource is a web application built on the MEAN (MongoDB, Express, Angular, Node) stack for my web development class in 2015. I created this web app with the intention of providing Northeastern Students a better experience browsing the courses offered at Northeastern (which is currently a painstakingly tedious task on our current student portal).
+- title: Android Hockey Stat Tracking App
+  demo: https://github.com/lbl28
+  code: https://github.com/lbl28
+  description: This was an application build using Android Studio for our coaches to more efficiently record statistics while watching game film.  The app allows users to record shots, turnovers, and goals for each team.  The colored sections show what area of the ice the stat took place to better evaluate the data.
   img: coursesource
   used:
     - thing: HTML
     - thing: CSS
-    - thing: Bootstrap
-    - thing: JavaScript
-    - thing: jQuery
-    - thing: NodeJS
-    - thing: AngularJS
-    - thing: Express
-    - thing: MongoDB
+    - thing: Java
+    - thing: XAML
 
 - title: NU Women in Tech
   demo: http://nuwit.ccs.neu.edu/
