@@ -5,7 +5,7 @@ Hello! Thanks for checking out the repo for my latest portfolio website. This we
 ## To View go to llemirande.com/
 
 ##  What I used
-- [Visual Studio Code]
+- [Visual Studio Code] (https://code.visualstudio.com/) for easy push-to-deploy hosting
 - [Github Pages](https://pages.github.com/) for easy push-to-deploy hosting
 - [Jekyll](https://jekyllrb.com/) for a static site generator
 - [Sass](http://sass-lang.com/) for less time-consuming and more modular CSS
