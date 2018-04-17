@@ -24,8 +24,8 @@ tools:
   - item: TFS
 
 knowledge:
-  - item: CSS Detangling
-  - item: ECMAScript 6
-  - item: Usability
-  - item: SEO
-  - item: TDD
+  - item: ServiceNow Administration
+  - item: ServiceNow Application Development/Scripting
+  - item: ITIL V3
+  - item: Lean Six Sigma
+  - item: Agile Development
