@@ -8,9 +8,32 @@
   - thing: React.js
   - thing: CSS
 
+- title: Android Hockey Stat Tracking App
+  demo: https://github.com/lbl28
+  code: https://github.com/lbl28
+  description: This was an application built using Android Studio for our coaches to more efficiently record statistics while watching game film.  The app allows users to record shots, turnovers, and goals for each team.  The colored sections show what area of the ice the stat took place to better evaluate the data.
+  img: coursesource
+  used:
+    - thing: HTML
+    - thing: CSS
+    - thing: Java
+    - thing: XAML
+
+- title: ServiceNow Service Portal
+  demo: https://github.com/lbl28
+  code: https://github.com/lbl28
+  description: This is a portal I built using ServiceNow as a starting point for users.  The intention of the app was to bring tools, data, and links all into a central portal for I/S.
+  img: coursesource
+  used:
+    - thing: HTML
+    - thing: CSS
+    - thing: JavaScript
+    - thing: Bootstrap
+    - thing: ServiceNow
+
 - title: Old Personal Website
-  demo: http://brittanychiang.com/v1
-  code: https://github.com/bchiang7/website_2015/
+  demo: http://llemirande.com/test
+  code: https://github.com/lbl28/test
   description: This was my original personal website I created in 2017.  
   img: websitev1
   used:
@@ -20,14 +43,5 @@
   - thing: JavaScript
   - thing: jQuery
 
-- title: Android Hockey Stat Tracking App
-  demo: https://github.com/lbl28
-  code: https://github.com/lbl28
-  description: This was an application build using Android Studio for our coaches to more efficiently record statistics while watching game film.  The app allows users to record shots, turnovers, and goals for each team.  The colored sections show what area of the ice the stat took place to better evaluate the data.
-  img: coursesource
-  used:
-    - thing: HTML
-    - thing: CSS
-    - thing: Java
-    - thing: XAML
+
 
