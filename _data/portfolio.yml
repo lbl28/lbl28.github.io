@@ -23,7 +23,7 @@
   demo: https://github.com/lbl28
   code: https://github.com/lbl28
   description: This is a portal I built using ServiceNow as a starting point for users.  The intention of the app was to bring tools, data, and links all into a central portal for I/S.
-  img: coursesource
+  img: hackernews
   used:
     - thing: HTML
     - thing: CSS
