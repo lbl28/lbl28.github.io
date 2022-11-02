@@ -9,7 +9,7 @@
     "browser-sync": "2.18.2",
     "eslint-config-starry": "2.0.1",
     "eslint-plugin-starry": "2.0.1",
-    "gulp": "3.9.1",
+    "gulp": "4.0.2",
     "gulp-autoprefixer": "3.1.1",
     "gulp-babel": "^6.1.2",
     "gulp-clean-css": "3.0.3",
